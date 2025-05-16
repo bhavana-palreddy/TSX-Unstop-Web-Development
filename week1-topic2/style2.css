@@ -1,0 +1,171 @@
+body {
+    height: 185vh;
+    width: 100%;
+    background: linear-gradient(to bottom, #f46666, #f382c4, #ef6cc5);
+    margin: 0;
+    background-size: cover;
+}
+
+header {
+    height: 50px;
+    width: 100%;
+    justify-content: center;
+
+
+
+}
+
+header h1 {
+    padding-top: 35px;
+    padding-left: 600px;
+
+
+}
+
+nav {
+    height: 100px;
+    justify-content: center;
+    display: flex;
+    padding: 50px 50px;
+    padding-top: 70px;
+}
+
+nav ul li {
+    padding: 70px 70px;
+    display: inline;
+    /* text-decoration: none; */
+    color: black;
+    height: max-content;
+
+
+
+}
+
+li {
+    text-decoration: wavy;
+    text-decoration-color: #ef6cc5;
+
+}
+
+h2 {
+    height: 30px;
+    width: 100%;
+    justify-content: first baseline;
+    /* font-size: larger; */
+}
+
+main {
+    margin: 0;
+}
+
+aside {
+    width: 300px;
+    padding: 20px;
+    background-color: #dc757f;
+    border-left: 4px solid #393a3c;
+    margin: 20px 0;
+    font-family: Arial, sans-serif;
+    color: #333;
+    height: auto;
+}
+
+aside h3 {
+    color: #0d0d0e;
+    margin-bottom: 10px;
+}
+
+aside ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+aside p {
+    margin: 10px 0;
+    line-height: 1.5;
+}
+
+footer {
+    height: auto;
+    width: 100%;
+
+}
+
+#box {
+    display: flex;
+
+}
+
+#box1 {
+    height: 400px;
+    width: 33.3%;
+
+
+}
+
+#box1 h3 {
+    padding-top: 10px;
+}
+
+#box2 {
+    height: 400px;
+    width: 33.3%;
+
+
+}
+
+#box3 {
+    height: 400px;
+    width: 33.3%;
+
+    padding: 10px;
+
+
+}
+
+footer h3 {
+
+    padding: 80px 30px;
+    font-size: 4cap;
+}
+
+#box3 p {
+    justify-content: center;
+    padding-top: 10px;
+    padding-left: 70px;
+    padding-bottom: 5px;
+    font-size: xx-large;
+}
+
+#box3 a img {
+    height: 50px;
+    width: 50px;
+    padding: 40px 55px;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+img {
+    padding-top: 30px;
+}
+
+#box2 p {
+    justify-content: center;
+    padding-top: 10px;
+    padding-left: 70px;
+    padding-bottom: 5px;
+    font-size: xx-large;
+
+}
+
+#box2 a {
+    padding-left: 100px;
+    padding-top: 110px;
+    padding: 5px;
+    text-align: none;
+    color: black;
+    /* display:block; */
+    text-decoration: none;
+    justify-content: center;
+
+
+}
