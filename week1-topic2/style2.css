@@ -1,5 +1,5 @@
 body {
-    height: 185vh;
+    height: 190vh;
     width: 100%;
     background: linear-gradient(to bottom, #f46666, #f382c4, #ef6cc5);
     margin: 0;
@@ -56,6 +56,7 @@ h2 {
 
 main {
     margin: 0;
+    padding: 10px;
 }
 
 aside {

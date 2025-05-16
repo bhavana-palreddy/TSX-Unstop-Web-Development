@@ -9,7 +9,7 @@ body{
 
 }
 
-/* h1{
+h1{
     color: rgb(26, 27, 24);
     font-size: 10cap;
     text-align: center;
@@ -28,4 +28,4 @@ p{
     background-color: aliceblue;
     border-radius: 3px;
     
-} */
+} 
